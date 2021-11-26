@@ -1,5 +1,5 @@
 {
-  "name": "@george.james/skeletoncss",
+  "name": "getskeletoncss",
   "version": "1.0.0",
   "description": "Skeleton is a simple, responsive boilerplate to kickstart any responsive project.",
   "main": "index.js",
