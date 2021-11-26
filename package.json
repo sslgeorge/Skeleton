@@ -1,5 +1,5 @@
 {
-  "name": "skeleton",
+  "name": "@george.james/skeletoncss",
   "version": "1.0.0",
   "description": "Skeleton is a simple, responsive boilerplate to kickstart any responsive project.",
   "main": "index.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sslgeorge/Skeleton/issues"
   },
-  "homepage": "https://github.com/sslgeorge/Skeleton#readme"
+  "homepage": "https://github.com/sslgeorge/Skeleton#readme",
+  "publishConfig": {
+    "@sslgeorge:registry": "https://npm.pkg.github.com"
+  }
 }
